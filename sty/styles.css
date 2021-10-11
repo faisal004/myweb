@@ -1,0 +1,59 @@
+img{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin-top: auto;
+    padding: 2%;
+}
+body{
+    background-color: rgb(210, 214, 205);
+    text-align:center ;
+    margin: auto;
+
+    
+}
+h1{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    padding-top: 200px;
+    font-size: 70px;
+    font-family: 'Birthstone', cursive;
+   
+}
+.top-container{
+    height: 100%;
+    background-color: cornflowerblue;
+    
+      
+}
+p{
+    font-size: 32px;
+}
+.myinfo{
+    font-size: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.btn{
+    
+}
+h3{
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+}
+.skill-pic{
+    
+ 
+}
+.first{
+    font-size: 40px;
+}
+.second{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.profile{
+    background-color: bisque;
+}
